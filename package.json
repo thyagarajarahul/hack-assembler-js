@@ -1,0 +1,14 @@
+{
+  "name": "hack-assembler",
+  "version": "1.0.0",
+  "description": "The Hack Assembler using Javascript",
+  "main": "src/parser.js",
+  "bin": {
+    "hack-assembler": "bin/cli"
+  },
+  "author": "Rahul Thyagaraja",
+  "license": "MIT License",
+  "dependencies": {
+    "line-reader": "^0.4.0"
+  }
+}
